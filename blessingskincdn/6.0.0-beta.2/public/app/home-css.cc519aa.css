@@ -1,7 +1,7 @@
 @font-face {
   font-family: Minecraft;
-  src: url(/app/b302ddbcba41edd860d13c5d003991e2.woff2) format('woff2'),
-    url(/app/2b22c6d6a4051b5e51fcb1d9dd7194ef.woff) format('woff');
+  src: url("https://resources.yachik.ink/blessingskincdn/6.0.0-beta.2/public/app/b302ddbcba41edd860d13c5d003991e2.woff2") format('woff2'),
+    url("https://resources.yachik.ink/blessingskincdn/6.0.0-beta.2/public/app/2b22c6d6a4051b5e51fcb1d9dd7194ef.woff") format('woff');
 }
 
 .bs-avatar {
